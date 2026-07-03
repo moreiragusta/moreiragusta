@@ -53,92 +53,16 @@ Busco atuar em projetos que envolvam:
 
 ##
 
-### 🤖 Linguagens e Tecnologias
+🤖 Linguagens e Tecnologias
 
-<img 
- align="left" 
- alt="Python"
- title="Python" 
- width="35px" 
- style="padding-right: 10px;" 
- src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
+<p> <img alt="Python" title="Python" width="35px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" /> <img alt="Pandas" title="Pandas" width="35px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" /> <img alt="PostgreSQL" title="PostgreSQL" width="35px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" /> <img alt="SQLite" title="SQLite" width="35px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" /> <img alt="Git" title="Git" width="35px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" /> <img alt="GitHub" title="GitHub" width="35px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" /> <img alt="VS Code" title="VS Code" width="35px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" /> </p>
 
-<img 
- align="left" 
- alt="Pandas"
- title="Pandas" 
- width="35px" 
- style="padding-right: 10px;" 
- src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" 
-/>
 
-<img 
- align="left" 
- alt="PostgreSQL"
- title="PostgreSQL" 
- width="35px" 
- style="padding-right: 10px;" 
- src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" 
-/>
 
-<img 
- align="left" 
- alt="SQLite"
- title="SQLite" 
- width="35px" 
- style="padding-right: 10px;" 
- src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" 
-/>
+📊 Estatísticas
 
-<img 
- align="left" 
- alt="Git"
- title="Git" 
- width="35px" 
- style="padding-right: 10px;" 
- src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
+<p> <img alt="GitHub Stats" height="180em" src="https://github-readme-stats.vercel.app/api?username=moreiragusta&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
 
-<img 
- align="left" 
- alt="GitHub"
- title="GitHub" 
- width="35px" 
- style="padding-right: 10px;" 
- src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" 
-/>
-
-<img 
- align="left" 
- alt="VS Code"
- title="VS Code" 
- width="35px" 
- style="padding-right: 10px;" 
- src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" 
-/>
-
-<br/>
-<br/>
-
-##
-
-### 📊 Estatísticas
-
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="180" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=moreiragusta&show_icons=true&theme=tokyonight&include_all_commits=true" 
-  />
-
-<img 
- align="left" 
- alt="Top Languages" 
- height="180" 
- src="https://github-readme-stats.vercel.app/api/top-langs/?username=moreiragusta&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-/>
+<img alt="Top Languages" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moreiragusta&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" />
 
 </p>
