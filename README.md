@@ -40,18 +40,38 @@ Tenho maior familiaridade com a área de **dados**, mas também desenvolvo proje
 
 ---
 
-## Tecnologias e ferramentas
+## 🛠️ Tech Stack & Ferramentas
+
+#### 🐍 Dados, Python & Backend
+
+<div align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,fastapi,flask,postgres,sqlite,mongodb&perline=10" alt="Dados, Python e Backend" />
+  </a>
+</div>
+
+<br />
+
+#### ⚙️ Ferramentas & Versionamento
+
+<div align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,powershell,bash,windows&perline=10" alt="Ferramentas e Versionamento" />
+  </a>
+</div>
+
+<br />
+
+#### 📊 Dados, BI & Automação
 
 <p>
-  <img src="https://img.shields.io/badge/Python-1E293B?style=for-the-badge&logo=python&logoColor=FFD43B" />
-  <img src="https://img.shields.io/badge/SQL-1E293B?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/Pandas-1E293B?style=for-the-badge&logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/Power%20BI-1E293B?style=for-the-badge&logo=powerbi&logoColor=F2C811" />
-  <img src="https://img.shields.io/badge/Git-1E293B?style=for-the-badge&logo=git&logoColor=F05032" />
-  <img src="https://img.shields.io/badge/GitHub-1E293B?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS%20Code-1E293B?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC" />
-  <img src="https://img.shields.io/badge/APIs%20REST-1E293B?style=for-the-badge&logo=fastapi&logoColor=009688" />
   <img src="https://img.shields.io/badge/Excel-1E293B?style=for-the-badge&logo=microsoftexcel&logoColor=217346" />
+  <img src="https://img.shields.io/badge/SQL-1E293B?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/ETL-1E293B?style=for-the-badge&logo=databricks&logoColor=FF3621" />
+  <img src="https://img.shields.io/badge/APIs%20REST-1E293B?style=for-the-badge&logo=fastapi&logoColor=009688" />
+  <img src="https://img.shields.io/badge/OCR-1E293B?style=for-the-badge&logo=python&logoColor=FFD43B" />
 </p>
 
 ---
@@ -64,21 +84,22 @@ Dados · Python · SQL · ETL · APIs · Power BI · Automação de Processos ·
 
 ---
 
-## GitHub
+## GitHub Analytics
 
-<p>
-  <img src="https://komarev.com/ghpvc/?username=moreiragusta&style=for-the-badge&color=1E293B" />
-  <img src="https://img.shields.io/github/followers/moreiragusta?style=for-the-badge&color=1E293B&label=Seguidores&logo=github" />
-  <img src="https://img.shields.io/github/stars/moreiragusta?style=for-the-badge&color=1E293B&label=Estrelas&logo=github" />
-</p>
+<div align="center">
+  <img 
+    src="https://github-stats-extended.vercel.app/api?username=moreiragusta&rank_icon=github&show_icons=true&include_all_commits=true&theme=calm" 
+    alt="GitHub Stats" 
+    width="48%" 
+  />
 
-<p>
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=moreiragusta&theme=github_dark" />
-</p>
+<img 
+ src="https://github-stats-extended.vercel.app/api/top-langs?username=moreiragusta&layout=compact&langs_count=4&theme=calm" 
+ alt="Top Languages" 
+ width="48%" 
+/>
 
-<p>
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=moreiragusta&theme=github_dark" />
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=moreiragusta&theme=github_dark" />
-</p>
+</div>
+
 
 ---
